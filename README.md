@@ -20,7 +20,7 @@ This is a personal project aimed at learning **React.js** and specifically focus
 
 ## How to Run Locally
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/nathjoo/rick-morty-rq.git`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm start`
 
