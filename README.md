@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a personal project aimed at learning **React.js** and specifically focusing on integrating **React Query** for efficient API data fetching. The website showcases characters from the popular animated TV series "Rick and Morty." Character data is obtained from the [Rick and Morty API](https://rickandmortyapi.com/) using **Axios** for API consumption.
+This is a personal project aimed at learning **React.js** and specifically focusing on integrating **React Query** for efficient API data fetching. The website showcases characters from the popular animated TV series "Rick and Morty." Character data is obtained from the [Rick and Morty API](https://rickandmortyapi.com/).
 
 ## Technologies Used
 
