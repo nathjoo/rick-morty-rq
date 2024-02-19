@@ -1,7 +1,5 @@
 # Rick and Morty Characters Showcase
 
-![Project Preview](<Add link to project preview image if available>)
-
 ## Overview
 
 This is a personal project aimed at learning **React.js** and specifically focusing on integrating **React Query** for efficient API data fetching. The website showcases characters from the popular animated TV series "Rick and Morty." Character data is obtained from the [Rick and Morty API](https://rickandmortyapi.com/) using **Axios** for API consumption.
