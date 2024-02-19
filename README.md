@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Rick and Morty Characters Showcase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Project Preview](<Add link to project preview image if available>)
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+This is a personal project aimed at learning **React.js** and specifically focusing on integrating **React Query** for efficient API data fetching. The website showcases characters from the popular animated TV series "Rick and Morty." Character data is obtained from the [Rick and Morty API](https://rickandmortyapi.com/) using **Axios** for API consumption.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React.js:** The project is built using **React.js**, a popular JavaScript library for building user interfaces.
+- **Tailwind CSS:** Styling is done using **Tailwind CSS**, a utility-first CSS framework that allows for rapid and maintainable styling.
+- **React Query:** The project leverages **React Query** for efficient and declarative data fetching, making API calls a seamless part of the React component lifecycle.
+- **Axios:** Axios is used for making HTTP requests to the Rick and Morty API and handling the response data.
+- **React Router DOM:** Navigation within the application is handled using **React Router DOM**, providing a smooth and responsive user experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- **Character Showcase:** Browse and view detailed information about characters from the Rick and Morty series.
+- **Dynamic Routing:** Utilize **React Router DOM** for seamless navigation and bookmarking of specific character pages.
+- **React Query Integration:** Learn how to integrate **React Query** for efficient data fetching, caching, and state management.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to Run Locally
 
-### `npm run build`
+1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+2. Install dependencies: `npm install`
+3. Run the development server: `npm start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Feel free to explore the code, make improvements, and use it as a reference for learning **React Query** and building responsive web applications.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy coding!
